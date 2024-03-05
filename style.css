@@ -1,0 +1,25 @@
+body{
+    background-color: blanchedalmond;
+}
+h1{
+    color: rgb(0, 136, 255);
+}
+
+
+#imade{
+    color: aquamarine;
+}
+.water{
+    background-color: rgb(255, 140, 0);
+}
+#button3{
+    background-color: aquamarine;
+    color: blueviolet;
+    border-color: grays;
+    border-radius: 9px;
+} 
+#button3:hover{
+    background-color: greenyellow;
+    color: brown;
+    cursor: pointer;
+}
